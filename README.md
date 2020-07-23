@@ -10,7 +10,3 @@ Deep Learning Toolbox\
 Image Classification Toolbox\
 Deep Learning Toolbox Model for AlexNet Network\
 Deep Learning Toolbox Model for VGG-16 Network\
-\
-To train the models, run 'train_network.m'\
-The model folder needed to hold variables for network\
-To predict on images, run 'predict.m'
